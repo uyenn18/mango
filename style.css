@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    color: violet;
+}
+.logo {
+    max-width: 90px;
+    display: block;
+    margin: auto;
+}
+.navigation{
+    text-align: center;
+    background-color: rgb(255, 234, 220);
+}
+.navigation a {
+    color: rgb(210, 117, 30);
+    text-decoration: none;
+}
