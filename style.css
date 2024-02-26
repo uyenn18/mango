@@ -15,4 +15,6 @@ body {
 .navigation a {
     color: rgb(210, 117, 30);
     text-decoration: none;
+    padding: 20px 10px;
+    display: inline-block;
 }
